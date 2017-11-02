@@ -7,6 +7,9 @@
     height: 20px;
     background-color: rgba(0,0,0,0.6);
 }
+.guilds-wrapper .guilds .friends-icon {
+    background-image: url(https://image.ibb.co/mE0yVw/customlogo.png);
+}
 
 /* fix for stupid discord updates */
 .layers,
