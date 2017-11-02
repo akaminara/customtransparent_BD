@@ -7,8 +7,11 @@
     height: 20px;
     background-color: rgba(0,0,0,0.6);
 }
+.guild-inner {
+     background-color: transparent !important;
+}
 .guilds-wrapper .guilds .friends-icon {
-    background-image: url(https://image.ibb.co/mE0yVw/customlogo.png);
+    background-image: url(https://image.ibb.co/mE0yVw/customlogo.png) !important;
 }
 
 /* fix for stupid discord updates */
@@ -336,7 +339,6 @@
     background-color: rgba(17, 149, 222, 0.2);
 }
 .guilds-wrapper .guilds .friends-icon {
-    background-image: none;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 32px 28px;
